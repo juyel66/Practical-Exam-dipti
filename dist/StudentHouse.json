@@ -1,0 +1,110 @@
+[
+  {
+      "id3": 1,
+      "estate_title": "Modern Student Apartment",
+      "segment_name": "Student Housing Residential",
+      "description": "Experience modern student living at its best in this comfortable and conveniently located apartment situated in the vibrant University District. This residence offers a spacious living room, ideal for relaxation or socializing with friends. A dedicated study area provides the perfect space for academic pursuits, ensuring a balanced lifestyle. The well-equipped kitchen allows for easy meal preparation and includes modern appliances for added convenience. With 1200 square feet of living space, there's plenty of room to make this apartment your home away from home. Embrace the convenience of city living with easy access to campus facilities, dining options, and recreational activities.",
+      "price": "$800/month",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "University District",
+      "image": "https://i.ibb.co/7Spqz0B/imresizer-1712947479656.jpg",
+      "facilities": ["living room", "study area", "kitchen"]
+  },
+  {
+      "id3": 2,
+      "estate_title": "Cozy Student Studio",
+      "segment_name": "Student Housing Residential",
+      "description": "Discover cozy and affordable living in this charming student studio located in the bustling Student Quarter. Perfect for the student lifestyle, this studio features a combined living and bedroom area, maximizing space and comfort. The kitchenette provides essential amenities for meal preparation, while the private bathroom ensures convenience and privacy. With 500 square feet of living space, this studio offers a cozy retreat for focused study and relaxation. Enjoy easy access to campus facilities, dining options, and entertainment venues, making student life both convenient and enjoyable.",
+      "price": "$600/month",
+      "status": "rent",
+      "area": "500 sq ft",
+      "location": "Student Quarter",
+      "image": "https://i.ibb.co/hFKh59f/imresizer-1712947131687.jpg",
+      "facilities": ["living/bedroom", "kitchenette", "bathroom"]
+  },
+  {
+      "id3": 3,
+      "estate_title": "Student Townhouse Community",
+      "segment_name": "Student Housing Residential",
+      "description": "Join a vibrant student community in this townhouse community designed for shared living and camaraderie. Shared living areas foster a sense of community among residents, providing opportunities for socializing and collaboration. Stay active with access to the fitness center, perfect for maintaining a healthy lifestyle amidst your academic pursuits. Dedicated study rooms offer quiet spaces for focused learning and academic achievement. With 1500 square feet of shared living space, there's ample room for community engagement and personal growth. Embrace the benefits of communal living while enjoying the convenience of on-campus amenities and services.",
+      "price": "$900/month",
+      "status": "rent",
+      "area": "1500 sq ft",
+      "location": "Student Community",
+      "image": "https://i.ibb.co/KmwQ9Lj/imresizer-1712947140364.jpg",
+      "facilities": ["shared living area", "fitness center", "study rooms"]
+  },
+  {
+      "id3": 4,
+      "estate_title": "Student Dormitory",
+      "segment_name": "Student Housing Residential",
+      "description": "Experience affordable and convenient student housing in this well-equipped dormitory located in the heart of the Campus Area. Shared bathrooms and communal kitchens ensure convenience and practicality, while study lounges provide quiet spaces for academic pursuits. Each room, spanning 200 square feet, offers a comfortable retreat for rest and relaxation. Embrace the sense of camaraderie and community spirit that comes with dormitory living, making lifelong friendships and memories. Enjoy easy access to campus facilities, dining options, and extracurricular activities, enhancing your overall student experience.",
+      "price": "$500/month",
+      "status": "rent",
+      "area": "200 sq ft (per room)",
+      "location": "Campus Area",
+      "image": "https://i.ibb.co/QcGmmjy/imresizer-1712947149139.jpg",
+      "facilities": ["shared bathrooms", "study lounges", "communal kitchens"]
+  },
+  {
+      "id3": 5,
+      "estate_title": "Modern Student Apartment",
+      "segment_name": "Student Housing Residential",
+      "description": "Experience modern student living at its best in this comfortable and conveniently located apartment situated in the vibrant University District. This residence offers a spacious living room, ideal for relaxation or socializing with friends. A dedicated study area provides the perfect space for academic pursuits, ensuring a balanced lifestyle. The well-equipped kitchen allows for easy meal preparation and includes modern appliances for added convenience. With 1200 square feet of living space, there's plenty of room to make this apartment your home away from home. Embrace the convenience of city living with easy access to campus facilities, dining options, and recreational activities.",
+      "price": "$800/month",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "University District",
+      "image": "https://i.ibb.co/0JWZ4YK/imresizer-1712947157411.jpg",
+      "facilities": ["living room", "study area", "kitchen"]
+  },
+  {
+      "id3": 6,
+      "estate_title": "Cozy Student Studio",
+      "segment_name": "Student Housing Residential",
+      "description": "Discover cozy and affordable living in this charming student studio located in the bustling Student Quarter. Perfect for the student lifestyle, this studio features a combined living and bedroom area, maximizing space and comfort. The kitchenette provides essential amenities for meal preparation, while the private bathroom ensures convenience and privacy. With 500 square feet of living space, this studio offers a cozy retreat for focused study and relaxation. Enjoy easy access to campus facilities, dining options, and entertainment venues, making student life both convenient and enjoyable.",
+      "price": "$600/month",
+      "status": "rent",
+      "area": "500 sq ft",
+      "location": "Student Quarter",
+      "image": "https://i.ibb.co/ctbgBpp/imresizer-1712947165890.jpg",
+      "facilities": ["living/bedroom", "kitchenette", "bathroom"]
+  },
+  {
+      "id3": 7,
+      "estate_title": "Student Townhouse Community",
+      "segment_name": "Student Housing Residential",
+      "description": "Join a vibrant student community in this townhouse community designed for shared living and camaraderie. Shared living areas foster a sense of community among residents, providing opportunities for socializing and collaboration. Stay active with access to the fitness center, perfect for maintaining a healthy lifestyle amidst your academic pursuits. Dedicated study rooms offer quiet spaces for focused learning and academic achievement. With 1500 square feet of shared living space, there's ample room for community engagement and personal growth. Embrace the benefits of communal living while enjoying the convenience of on-campus amenities and services.",
+      "price": "$900/month",
+      "status": "rent",
+      "area": "1500 sq ft",
+      "location": "Student Community",
+      "image": "https://i.ibb.co/d6W15cV/imresizer-1712947172780.jpg",
+      "facilities": ["shared living area", "fitness center", "study rooms"]
+  },
+  {
+      "id3": 8,
+      "estate_title": "Student Dormitory",
+      "segment_name": "Student Housing Residential",
+      "description": "Experience affordable and convenient student housing in this well-equipped dormitory located in the heart of the Campus Area. Shared bathrooms and communal kitchens ensure convenience and practicality, while study lounges provide quiet spaces for academic pursuits. Each room, spanning 200 square feet, offers a comfortable retreat for rest and relaxation. Embrace the sense of camaraderie and community spirit that comes with dormitory living, making lifelong friendships and memories. Enjoy easy access to campus facilities, dining options, and extracurricular activities, enhancing your overall student experience.",
+      "price": "$500/month",
+      "status": "rent",
+      "area": "200 sq ft (per room)",
+      "location": "Campus Area",
+      "image": "https://i.ibb.co/ZWkxr3J/imresizer-1712947470628.jpg",
+      "facilities": ["shared bathrooms", "study lounges", "communal kitchens"]
+  },
+  {
+      "id3": 9,
+      "estate_title": "Modern Student Apartment",
+      "segment_name": "Student Housing Residential",
+      "description": "Experience modern student living at its best in this comfortable and conveniently located apartment situated in the vibrant University District. This residence offers a spacious living room, ideal for relaxation or socializing with friends. A dedicated study area provides the perfect space for academic pursuits, ensuring a balanced lifestyle. The well-equipped kitchen allows for easy meal preparation and includes modern appliances for added convenience. With 1200 square feet of living space, there's plenty of room to make this apartment your home away from home. Embrace the convenience of city living with easy access to campus facilities, dining options, and recreational activities.",
+      "price": "$800/month",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "University District",
+      "image": "https://i.ibb.co/mDNVSq6/imresizer-1712947122176.jpg",
+      "facilities": ["living room", "study area", "kitchen"]
+  }
+]

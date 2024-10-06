@@ -1,0 +1,103 @@
+[
+    {
+      "id6": 2,
+      "title": "City Center Penthouse",
+      "short_description": "Luxurious penthouse with stunning city views.",
+      "review": "Unparalleled luxury and breathtaking views. A must-see!",
+      "sale_status": "Available",
+      "price": "$500,000",
+      "facilities": ["Private Terrace", "Spa", "Concierge Service"],
+      "image": "https://i.ibb.co/RSNHT7x/images-21.jpg"
+    },
+    {
+      "id6": 3,
+      "title": "Modern Loft in Arts District",
+      "short_description": "Industrial-chic loft in vibrant arts district.",
+      "review": "Unique design and vibrant atmosphere. Loved every moment!",
+      "sale_status": "Available",
+      "price": "$300,000",
+      "facilities": ["Open Layout", "Art Gallery Nearby", "Fitness Center"],
+      "image": "https://i.ibb.co/PW8hM6Z/images-22.jpg"
+    },
+    {
+      "id6": 4,
+      "title": "Downtown Studio Apartment",
+      "short_description": "Compact studio in the heart of downtown.",
+      "review": "Efficient use of space and unbeatable location. Highly recommended!",
+      "sale_status": "Available",
+      "price": "$150,000",
+      "facilities": ["City Views", "Walking Distance to Shops", "Security"],
+      "image": "https://i.ibb.co/3SfYS7M/images-23.jpg"
+    },
+    {
+      "id6": 5,
+      "title": "Riverside Townhouse Retreat",
+      "short_description": "Elegant townhouse overlooking the river.",
+      "review": "Tranquil setting and spacious interiors. A hidden gem!",
+      "sale_status": "Available",
+      "price": "$400,000",
+      "facilities": ["Riverfront Patio", "Gourmet Kitchen", "Private Garage"],
+      "image": "https://i.ibb.co/hRqcVqp/images-24.jpg"
+    },
+    {
+      "id6": 6,
+      "title": "Urban Condo with Panoramic Views",
+      "short_description": "Contemporary condo with panoramic city views.",
+      "review": "Spectacular views and modern amenities. Perfect urban retreat!",
+      "sale_status": "Available",
+      "price": "$280,000",
+      "facilities": ["Floor-to-Ceiling Windows", "Sky Lounge", "Fitness Center"],
+      "image": "https://i.ibb.co/9WN8gVs/images-26.jpg"
+    },
+    {
+      "id6": 7,
+      "title": "Charming Townhome in Historic District",
+      "short_description": "Quaint townhome with historic charm.",
+      "review": "Character-filled home with modern comforts. A delightful find!",
+      "sale_status": "Available",
+      "price": "$250,000",
+      "facilities": ["Historic Architecture", "Garden Patio", "Close to Cultural Attractions"],
+      "image": "https://i.ibb.co/VJC41mj/images-27.jpg"
+    },
+    {
+      "id6": 8,
+      "title": "Downtown Luxury Condo",
+      "short_description": "Luxurious condo in the heart of the city.",
+      "review": "Upscale living with exceptional amenities. Exceeded expectations!",
+      "sale_status": "Available",
+      "price": "$450,000",
+      "facilities": ["High-End Finishes", "Concierge Service", "Fitness Center"],
+      "image": "https://i.ibb.co/wY2LhS8/images-28.jpg"
+    },
+    {
+      "id6": 9,
+      "title": "Modern Townhouse with Rooftop Terrace",
+      "short_description": "Sleek townhouse with rooftop oasis.",
+      "review": "Stylish design and incredible rooftop views. Absolutely stunning!",
+      "sale_status": "Available",
+      "price": "$350,000",
+      "facilities": ["Rooftop Terrace", "Modern Design", "Close to Dining & Entertainment"],
+      "image": "https://i.ibb.co/4TnxZTt/images-30.jpg"
+    },
+    {
+      "id6": 10,
+      "title": "Waterfront Luxury Apartment",
+      "short_description": "Luxury apartment overlooking the waterfront.",
+      "review": "Elegant living with serene waterfront views. Truly exceptional!",
+      "sale_status": "Available",
+      "price": "$600,000",
+      "facilities": ["Waterfront Views", "Marina Access", "Spa & Wellness Center"],
+      "image": "https://i.ibb.co/kcpYbg4/images-31.jpg"
+    },
+    {
+      "id6": 11,
+      "title": "Coastal Retreat Villa",
+      "short_description": "Exquisite villa offering coastal living at its finest.",
+      "review": "Paradise found! Serenity, luxury, and breathtaking views.",
+      "sale_status": "Available",
+      "price": "$800,000",
+      "facilities": ["Private Beach Access", "Infinity Pool", "Gourmet Kitchen"],
+      "image": "https://i.ibb.co/vQwwvnh/images-32.jpg"
+    }
+  ]
+  
