@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 const AboutUs = () => {
   return (
  <div>
+     <p data-aos="zoom-in" data-aos-duration="1500" className=''>About Us</p>
 
 <p data-aos="zoom-in" data-aos-duration="1500" className="text-base lg:text-3xl font-bold   md:w-[700px] mx-auto text-center mt-3 uppercase bg-gradient-to-r from-orange-700 via-blue-500 to-green-400 text-transparent bg-clip-text animate-gradient ">WelCome to our JR Residential company</p>
          <div className=" lg:flex justify-between mt-10">
