@@ -1,0 +1,111 @@
+[
+    {
+       "id": "1",
+       "estate_title": "Cozy Family Home",
+       "segment_name": "Single family homes",
+       "description": "Charming 3-bedroom home in serene neighborhood. Open layout, modern kitchen, backyard. Close to amenities. Price: $300,000. Status: Sale. Area: 1500 sq ft.",
+       "price": "300000",
+       "status": "sale",
+       "area": "1500 sq ft",
+       "location": "123 Main Street, Anytown, USA",
+       "facilities": ["living room", "kitchen", "backyard"],
+       "image": "https://i.ibb.co/sbchzRV/imresizer-1712829179664.jpg"
+    },
+    {
+       "id": "2",
+       "estate_title": "Family Retreat",
+       "segment_name": "Single family homes",
+       "description": "Spacious 4-bedroom home with scenic views. Gourmet kitchen, deck, and 2-car garage. Perfect for family gatherings. Price: $450,000. Status: Sale. Area: 2000 sq ft.",
+       "price": "450000",
+       "status": "sale",
+       "area": "2000 sq ft",
+       "location": "456 Oak Avenue, Suburbia, USA",
+       "facilities": ["living room", "kitchen", "deck"],
+       "image": "https://i.ibb.co/VWgkhsK/imresizer-1712829190201.jpg"
+    },
+    {
+       "id": "3",
+       "estate_title": "Mountain Haven",
+       "segment_name": "Single family homes",
+       "description": "Modern 3-bedroom home with mountain views. Open plan, hardwood floors, and master suite. Price: $350,000. Status: Sale. Area: 1800 sq ft.",
+       "price": "350000",
+       "status": "sale",
+       "area": "1800 sq ft",
+       "location": "789 Pine Street, Mountainville, USA",
+       "facilities": ["living room", "kitchen", "master suite"],
+       "image": "https://i.ibb.co/2dps4b0/imresizer-1712829207050.jpg"
+    },
+    {
+       "id": "4",
+       "estate_title": "Waterfront Retreat",
+       "segment_name": "Single family homes",
+       "description": "Luxurious 5-bedroom home with waterfront views. Gourmet kitchen, pool, and spa. Ideal for entertaining. Price: $1,000,000. Status: Sale. Area: 3000 sq ft.",
+       "price": "1000000",
+       "status": "sale",
+       "area": "3000 sq ft",
+       "location": "101 Harbor Drive, Seaside, USA",
+       "facilities": ["living room", "kitchen", "swimming pool"],
+       "image": "https://i.ibb.co/3FgCnMM/imresizer-1712829225076.jpg"
+    },
+    {
+       "id": "5",
+       "estate_title": "City Living",
+       "segment_name": "Single family homes",
+       "description": "Contemporary 2-bedroom home in urban setting. Rooftop deck, modern kitchen, and city views. Price: $400,000. Status: Sale. Area: 1200 sq ft.",
+       "price": "400000",
+       "status": "sale",
+       "area": "1200 sq ft",
+       "location": "222 Elm Street, Cityscape, USA",
+       "facilities": ["living room", "kitchen", "rooftop deck"],
+       "image": "https://i.ibb.co/PNQdW8r/imresizer-1712829233659.jpg"
+    },
+    {
+       "id": "6",
+       "estate_title": "Tranquil Escape",
+       "segment_name": "Single family homes",
+       "description": "Secluded 3-bedroom home surrounded by nature. Spacious yard, cozy fireplace, and deck. Price: $280,000. Status: Sale. Area: 1600 sq ft.",
+       "price": "280000",
+       "status": "sale",
+       "area": "1600 sq ft",
+       "location": "333 Maple Lane, Woodland, USA",
+       "facilities": ["living room", "kitchen", "deck"],
+       "image": "https://i.ibb.co/vHQbkFs/imresizer-1712829241628.jpg"
+    },
+    {
+       "id": "7",
+       "estate_title": "Country Retreat",
+       "segment_name": "Single family homes",
+       "description": "Quaint 2-bedroom cottage in peaceful countryside. Rustic charm, garden, and wraparound porch. Price: $250,000. Status: Sale. Area: 1000 sq ft.",
+       "price": "250000",
+       "status": "sale",
+       "area": "1000 sq ft",
+       "location": "444 Oak Street, Countryside, USA",
+       "facilities": ["living room", "kitchen", "garden"],
+       "image": "https://i.ibb.co/z7tpd2W/imresizer-1712829249146.jpg"
+    },
+    {
+       "id": "8",
+       "estate_title": "Lakefront Living",
+       "segment_name": "Single family homes",
+       "description": "3-bedroom home on picturesque lakefront. Dock, fireplace, and panoramic views. Price: $600,000. Status: Sale. Area: 2200 sq ft.",
+       "price": "600000",
+       "status": "sale",
+       "area": "2200 sq ft",
+       "location": "555 Lakeview Drive, Lakeside, USA",
+       "facilities": ["living room", "kitchen", "fireplace"],
+       "image": "https://i.ibb.co/zbrNcKV/imresizer-1712829258167.jpg"
+    },
+    {
+       "id": "9",
+       "estate_title": "Sunny Retreat",
+       "segment_name": "Single family homes",
+       "description": "Bright 4-bedroom home with sunny backyard. Open plan, modern kitchen, and patio. Price: $480,000. Status: Sale. Area: 1900 sq ft.",
+       "price": "480000",
+       "status": "sale",
+       "area": "1900 sq ft",
+       "location": "666 Sunflower Avenue, Sunnyville, USA",
+       "facilities": ["living room", "kitchen", "patio"],
+       "image": "https://i.ibb.co/jgbFFf0/imresizer-1712829263242.jpg"
+    }
+ ]
+ 

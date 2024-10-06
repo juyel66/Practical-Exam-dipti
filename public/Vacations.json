@@ -1,0 +1,110 @@
+[
+  {
+      "id5": 1,
+      "estate_title": "Seaside Villa Escape",
+      "segment_name": "Vacation Rental",
+      "description": "Indulge in a luxurious seaside villa escape with breathtaking ocean views. This exquisite property features spacious living areas, elegant furnishings, and private beach access. Relax by the infinity pool, unwind in the outdoor jacuzzi, or stroll along the pristine shoreline. With gourmet kitchen facilities and a dedicated concierge service, this villa offers the ultimate retreat for a memorable vacation experience.",
+      "price": "$500/night",
+      "status": "rent",
+      "area": "3000 sq ft",
+      "location": "Seashell Bay, Oceanfront Resort",
+      "facilities": ["infinity pool", "outdoor jacuzzi", "private beach access"],
+      "image": "https://i.ibb.co/LSzYWZ8/pexels-photo-6130016.jpg"
+  },
+  {
+      "id5": 2,
+      "estate_title": "Mountain Chalet Retreat",
+      "segment_name": "Vacation Rental",
+      "description": "Escape to a cozy mountain chalet retreat surrounded by picturesque alpine scenery. This charming property features rustic decor, a stone fireplace, and panoramic mountain views. Enjoy outdoor activities such as hiking, skiing, and snowboarding, or simply relax on the spacious deck and breathe in the fresh mountain air. With modern amenities and a warm, inviting atmosphere, this chalet is the perfect destination for a tranquil mountain getaway.",
+      "price": "$300/night",
+      "status": "rent",
+      "area": "2000 sq ft",
+      "location": "Alpine Ridge, Mountain Village",
+      "facilities": ["stone fireplace", "spacious deck", "panoramic views"],
+      "image": "https://i.ibb.co/2KWfdNz/pexels-photo-6039194.jpg"
+  },
+  {
+      "id5": 3,
+      "estate_title": "Tropical Beach Bungalow",
+      "segment_name": "Vacation Rental",
+      "description": "Experience the ultimate tropical getaway in a charming beach bungalow nestled among swaying palm trees. This idyllic property offers direct beach access, a private patio, and colorful island-inspired decor. Swim in the crystal-clear waters, snorkel among vibrant coral reefs, or simply relax with a cocktail in hand and watch the sunset over the ocean. With hammocks, barbecue facilities, and beachside dining, this bungalow provides the perfect setting for a laid-back island vacation.",
+      "price": "$400/night",
+      "status": "rent",
+      "area": "1500 sq ft",
+      "location": "Palm Grove Beach, Tropical Island",
+      "facilities": ["direct beach access", "private patio", "hammocks"],
+      "image": "https://i.ibb.co/Czc6FJ8/pexels-photo-5746236.jpg"
+  },
+  {
+      "id5": 4,
+      "estate_title": "Ski-in/Ski-out Chalet",
+      "segment_name": "Vacation Rental",
+      "description": "Hit the slopes with ease in a stylish ski-in/ski-out chalet located at the base of the mountain. This modern property features upscale furnishings, a gourmet kitchen, and stunning mountain views. Ski directly from your doorstep onto the pristine slopes, then unwind in the outdoor hot tub or gather around the fireplace for apres-ski relaxation. With ski storage, heated floors, and convenient access to resort amenities, this chalet offers the ultimate winter vacation experience.",
+      "price": "$600/night",
+      "status": "rent",
+      "area": "2500 sq ft",
+      "location": "Powder Peak Resort, Ski Village",
+      "facilities": ["ski-in/ski-out access", "outdoor hot tub", "fireplace"],
+      "image": "https://i.ibb.co/z7CsDR3/pexels-photo-5210121.jpg"
+  },
+  {
+      "id5": 5,
+      "estate_title": "Urban Loft Oasis",
+      "segment_name": "Vacation Rental",
+      "description": "Immerse yourself in city living with a stay in a stylish urban loft oasis in the heart of the downtown district. This contemporary loft boasts loft-style ceilings, industrial-chic decor, and panoramic city views. Explore nearby attractions, dine at trendy restaurants, or simply relax in the comfort of your loft and enjoy the vibrant city atmosphere. With modern amenities and convenient access to public transportation, this urban retreat offers the perfect blend of luxury and convenience.",
+      "price": "$250/night",
+      "status": "rent",
+      "area": "1800 sq ft",
+      "location": "Downtown Metropolis, City Center",
+      "facilities": ["city views", "modern amenities", "convenient access"],
+      "image": "https://i.ibb.co/SnqC6Sb/pexels-photo-4917176.jpg"
+  },
+  {
+      "id5": 6,
+      "estate_title": "Lakefront Cabin Getaway",
+      "segment_name": "Vacation Rental",
+      "description": "Escape to a tranquil lakefront cabin getaway surrounded by towering pine trees and serene waters. This cozy cabin features rustic charm, a stone fireplace, and a private dock for swimming and fishing. Spend your days kayaking on the lake, hiking through the forest, or simply lounging on the deck and soaking in the natural beauty. With barbecue facilities, a fire pit, and stunning sunset views, this cabin offers the perfect retreat for nature lovers.",
+      "price": "$350/night",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "Pine Grove Lake, Forest Retreat",
+      "facilities": ["private dock", "kayaks", "fire pit"],
+      "image": "https://i.ibb.co/FwxvtXK/pexels-photo-4913314.jpg"
+  },
+  {
+      "id5": 7,
+      "estate_title": "Luxury Desert Retreat",
+      "segment_name": "Vacation Rental",
+      "description": "Experience the beauty of the desert in a luxurious retreat surrounded by sweeping sand dunes and clear blue skies. This opulent property features modern architecture, sleek furnishings, and a private pool oasis. Relax in the outdoor lounge area, take a dip in the infinity pool, or stargaze from the rooftop terrace. With gourmet kitchen facilities, a home theater, and desert adventures just beyond your doorstep, this retreat offers the ultimate desert escape.",
+      "price": "$700/night",
+      "status": "rent",
+      "area": "3500 sq ft",
+      "location": "Desert Mirage, Oasis Resort",
+      "facilities": ["private pool", "rooftop terrace", "home theater"],
+      "image": "https://i.ibb.co/0C5ZDZd/pexels-photo-4300117.jpg"
+  },
+  {
+      "id5": 8,
+      "estate_title": "Historic Townhouse Hideaway",
+      "segment_name": "Vacation Rental",
+      "description": "Step back in time with a stay in a historic townhouse hideaway nestled within a charming cobblestone street. This elegant property features period furnishings, original architectural details, and a secluded garden courtyard. Explore nearby historic sites, dine at quaint cafes, or simply relax in the comfort of your townhouse and soak in the ambiance of yesteryear. With modern amenities and a sense of old-world charm, this hideaway offers a unique vacation experience.",
+      "price": "$300/night",
+      "status": "rent",
+      "area": "1600 sq ft",
+      "location": "Cobblestone Lane, Historic District",
+      "facilities": ["secluded courtyard", "period furnishings", "historic ambiance"],
+      "image": "https://i.ibb.co/MCvRLPB/pexels-photo-4159683.jpg"
+  },
+  {
+      "id5": 9,
+      "estate_title": "Safari Lodge Adventure",
+      "segment_name": "Vacation Rental",
+      "description": "Embark on a safari lodge adventure in the heart of the wilderness, surrounded by majestic wildlife and breathtaking landscapes. This safari lodge offers authentic African-inspired decor, spacious tented suites, and panoramic views of the savannah. Set out on thrilling game drives, relax by the campfire under the starlit sky, or indulge in traditional bush dinners. With experienced guides, luxurious amenities, and unforgettable wildlife encounters, this lodge promises an immersive safari experience like no other.",
+      "price": "$800/night",
+      "status": "rent",
+      "area": "4000 sq ft",
+      "location": "Savannah Plains, Safari Reserve",
+      "facilities": ["tent suites", "game drives", "bush dinners"],
+      "image": "https://i.ibb.co/bd105D9/pexels-photo-2347721.jpg"
+  }
+]

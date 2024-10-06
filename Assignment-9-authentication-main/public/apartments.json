@@ -1,0 +1,110 @@
+[
+  {
+      "id2": 1,
+      "estate_title": "Modern City Apartment",
+      "segment_name": "Apartments Residential",
+      "description": "Experience the epitome of contemporary urban living with this modern apartment located in the heart of downtown. Spanning 1500 square feet, this residence offers a spacious living room, ideal for both relaxation and entertainment. The presence of a swimming pool adds a touch of luxury, while the fully equipped kitchen caters to culinary enthusiasts. Embrace the vibrancy of urban living with easy access to a plethora of dining, shopping, and cultural attractions right at your doorstep.",
+      "price": "$700,000",
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "Downtown",
+      "image": "https://i.ibb.co/Wg7qr9Z/imresizer-1712946304864.jpg",
+      "facilities": ["living room", "swimming pool", "kitchen"]
+  },
+  {
+      "id2": 2,
+      "estate_title": "Luxury Waterfront Apartment",
+      "segment_name": "Apartments Residential",
+      "description": "Indulge in the ultimate luxury with this waterfront apartment boasting breathtaking views of the Waterfront District. Encompassing 2000 square feet, this residence exudes elegance and sophistication. The expansive living room opens onto a private balcony, allowing residents to immerse themselves in the beauty of the surrounding landscape. Residents can also enjoy the amenities of a pool and fitness center, providing avenues for relaxation and recreation. With impeccable design and top-tier amenities, this apartment offers a lifestyle of opulence and indulgence.",
+      "price": "$1,200,000",
+      "status": "sale",
+      "area": "2000 sq ft",
+      "location": "Waterfront District",
+      "image": "https://i.ibb.co/Wv3cTPM/imresizer-1712946312756.jpg",
+      "facilities": ["living room", "pool", "fitness center"]
+  },
+  {
+      "id2": 3,
+      "estate_title": "Chic Urban Loft",
+      "segment_name": "Apartments Residential",
+      "description": "Nestled in the trendy Arts District, this chic loft offers stylish living in a vibrant urban setting. Boasting 1800 square feet of contemporary design, this residence features a spacious living room perfect for both relaxation and entertainment. The presence of a gym and rooftop terrace provides opportunities for recreation and socializing. With sleek finishes and an abundance of natural light, this loft epitomizes urban sophistication. Enjoy easy access to art galleries, boutiques, and cafes, embracing the eclectic energy of city life.",
+      "price": "$800,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Arts District",
+      "image": "https://i.ibb.co/0hnLGjF/imresizer-1712946324922.jpg",
+      "facilities": ["living room", "gym", "rooftop terrace"]
+  },
+  {
+      "id2": 4,
+      "estate_title": "Cozy Studio Apartment",
+      "segment_name": "Apartments Residential",
+      "description": "Discover charm and character in this cozy studio apartment located in a historic building in the heart of Old Town. With 700 square feet of living space, this residence offers a comfortable retreat from the hustle and bustle of city life. The living room provides a cozy space for relaxation, while the presence of a fitness center adds convenience for residents. Embrace the unique ambiance of Old Town with its cobblestone streets, historic architecture, and vibrant atmosphere.",
+      "price": "$400,000",
+      "status": "sale",
+      "area": "700 sq ft",
+      "location": "Old Town",
+      "image": "https://i.ibb.co/D8pDYZG/imresizer-1712946335798.jpg",
+      "facilities": ["living room", "fitness center"]
+  },
+  {
+      "id2": 5,
+      "estate_title": "Executive Penthouse",
+      "segment_name": "Apartments Residential",
+      "description": "Elevate your lifestyle with this executive penthouse located in the heart of the city center. Spanning 3000 square feet, this residence offers unparalleled luxury and sophistication. The expansive living room opens onto a private rooftop pool, providing breathtaking views of the city skyline. Residents can also enjoy the amenities of a gym, further enhancing their living experience. With its prime location and top-of-the-line amenities, this penthouse offers a lifestyle of unparalleled luxury and exclusivity.",
+      "price": "$2,000,000",
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "City Center",
+      "image": "https://i.ibb.co/dD83Yzn/imresizer-1712946343864.jpg",
+      "facilities": ["living room", "rooftop pool", "gym"]
+  },
+  {
+      "id2": 6,
+      "estate_title": "Scenic Mountain Retreat",
+      "segment_name": "Apartments Residential",
+      "description": "Escape to serenity with this scenic mountain retreat boasting panoramic views of the surrounding landscape. Encompassing 2200 square feet, this residence offers a tranquil living environment away from the hustle and bustle of the city. The presence of a balcony provides the perfect spot for enjoying morning coffee or evening sunsets, while the fitness center offers opportunities for staying active. With its idyllic location and breathtaking views, this mountain retreat offers a lifestyle of peace and tranquility.",
+      "price": "$900,000",
+      "status": "sale",
+      "area": "2200 sq ft",
+      "location": "Mountain Village",
+      "image": "https://i.ibb.co/Y8jYkqk/imresizer-1712946354720.jpg",
+      "facilities": ["living room", "balcony", "fitness center"]
+  },
+  {
+      "id2": 7,
+      "estate_title": "Urban Oasis",
+      "segment_name": "Apartments Residential",
+      "description": "Discover an oasis in the heart of the city with this urban retreat. Spanning 1600 square feet, this residence offers a peaceful sanctuary amidst the hustle and bustle of urban life. The presence of a pool and garden provides residents with opportunities for relaxation and rejuvenation, while the spacious living room offers a comfortable space for entertaining guests. With its tranquil ambiance and convenient location, this urban oasis offers a lifestyle of comfort and serenity.",
+      "price": "$600,000",
+      "status": "sale",
+      "area": "1600 sq ft",
+      "location": "City Center",
+      "image": "https://i.ibb.co/sbchzRV/imresizer-1712829179664.jpg",
+      "facilities": ["living room", "pool", "garden"]
+  },
+  {
+      "id2": 8,
+      "estate_title": "Luxury High-Rise Living",
+      "segment_name": "Apartments Residential",
+      "description": "Experience luxury living at its finest with this high-rise apartment located in the prime Financial District. Boasting 2500 square feet of sophisticated design, this residence offers unparalleled elegance and style. The presence of a rooftop pool and gym provides residents with exclusive amenities for relaxation and recreation. With its breathtaking views and top-of-the-line facilities, this high-rise apartment offers a lifestyle of luxury and indulgence.",
+      "price": "$1,500,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Financial District",
+      "image": "https://i.ibb.co/k3cWHsv/imresizer-1712946362095.jpg",
+      "facilities": ["living room", "rooftop pool", "gym"]
+  },
+  {
+      "id2": 9,
+      "estate_title": "Seaside Retreat",
+      "segment_name": "Apartments Residential",
+      "description": "Experience the ultimate seaside lifestyle with this exquisite retreat boasting stunning ocean views. Encompassing 1900 square feet, this residence offers a serene and tranquil living environment. The presence of a pool and beach access provides residents with opportunities for relaxation and recreation, while the spacious living room offers breathtaking views of the coastline. With its idyllic location and luxurious amenities, this seaside retreat offers a lifestyle of luxury and comfort.",
+      "price": "$1,100,000",
+      "status": "sale",
+      "area": "1900 sq ft",
+      "location": "Coastal Town",
+      "image": "https://i.ibb.co/rpTRsBY/imresizer-1712946370740.jpg",
+      "facilities": ["living room", "pool", "beach access"]
+  }
+]

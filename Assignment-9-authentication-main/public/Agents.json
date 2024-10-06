@@ -1,0 +1,63 @@
+[
+    {
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "phone": "+1 (555) 123-4567",
+      "image": "https://i.ibb.co/PQ67vwN/images-20.jpg"
+    },
+    {
+      "name": "Emily Johnson",
+      "email": "emily.johnson@example.com",
+      "phone": "+1 (555) 234-5678",
+      "image": "https://i.ibb.co/MBSKhdV/images-19.jpg"
+    },
+    {
+      "name": "Michael Davis",
+      "email": "michael.davis@example.com",
+      "phone": "+1 (555) 345-6789",
+      "image": "https://i.ibb.co/dLSwRVG/images-18.jpg"
+    },
+    {
+      "name": "Jessica Brown",
+      "email": "jessica.brown@example.com",
+      "phone": "+1 (555) 456-7890",
+      "image": "https://i.ibb.co/p11rNwQ/images-17.jpg"
+    },
+    {
+      "name": "William Wilson",
+      "email": "william.wilson@example.com",
+      "phone": "+1 (555) 567-8901",
+      "image": "https://i.ibb.co/cNsRg2M/images-16.jpg"
+    },
+    {
+      "name": "Olivia Martinez",
+      "email": "olivia.martinez@example.com",
+      "phone": "+1 (555) 678-9012",
+      "image": "https://i.ibb.co/R06G9DH/images-15.jpg"
+    },
+    {
+      "name": "James Taylor",
+      "email": "james.taylor@example.com",
+      "phone": "+1 (555) 789-0123",
+      "image": "https://i.ibb.co/R9M1JN6/images-14.jpg"
+    },
+    {
+      "name": "Sophia Anderson",
+      "email": "sophia.anderson@example.com",
+      "phone": "+1 (555) 890-1234",
+      "image": "https://i.ibb.co/9tTvPx1/download-6.jpg"
+    },
+    {
+      "name": "Benjamin Thomas",
+      "email": "benjamin.thomas@example.com",
+      "phone": "+1 (555) 901-2345",
+      "image": "https://i.ibb.co/Y3VYTKV/download-5.jpg"
+    },
+    {
+      "name": "Isabella Jackson",
+      "email": "isabella.jackson@example.com",
+      "phone": "+1 (555) 012-3456",
+      "image": "https://i.ibb.co/x60S8XD/download-4.jpg"
+    }
+  ]
+  

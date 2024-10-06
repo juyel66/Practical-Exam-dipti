@@ -1,0 +1,74 @@
+[
+  {
+      "id1": 11,
+      "estate_title": "Modern Townhouse",
+      "segment_name": "Townhouses Residential",
+      "description": "Experience modern living at its finest in this exquisite townhouse nestled within a suburban oasis. Offering a spacious and stylish environment, this residence features a welcoming living room, perfect for relaxing or entertaining guests. Step outside to your private swimming pool, where you can enjoy refreshing dips on hot summer days. The well-appointed kitchen provides the perfect space for culinary endeavors, equipped with modern appliances and ample storage. With 2000 square feet of living space, there's plenty of room to spread out and make this townhouse your own. Located in the desirable Suburban Heights neighborhood, you'll enjoy easy access to amenities and a serene atmosphere.",
+      "price": "$500,000",
+      "status": "sale",
+      "area": "2000 sq ft",
+      "location": "Suburban Heights",
+      "image": "https://i.ibb.co/23yPkp7/imresizer-1712945219616.jpg",
+      "facilities": ["living room", "swimming pool", "kitchen"]
+  },
+  {
+      "id1": 22,
+      "estate_title": "Charming Townhouse",
+      "segment_name": "Townhouses Residential",
+      "description": "Escape to a charming townhouse with spectacular views in the serene Mountain View Estates community. Perfect for nature lovers, this residence offers a cozy living room where you can unwind after a long day, as well as a balcony where you can soak in the breathtaking vistas. The well-equipped kitchen provides everything you need to prepare delicious meals while enjoying the beauty of your surroundings. With 1800 square feet of living space, there's plenty of room for comfortable living. Whether you're relaxing indoors or exploring the nearby outdoor trails, this townhouse offers the ideal retreat from the hustle and bustle of city life.",
+      "price": "$450,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Mountain View Estates",
+      "image": "https://i.ibb.co/8j7ZqR6/imresizer-1712945210424.jpg",
+      "facilities": ["living room", "balcony", "kitchen"]
+  },
+  {
+      "id1": 33,
+      "estate_title": "Luxury Townhouse",
+      "segment_name": "Townhouses Residential",
+      "description": "Indulge in luxury townhouse living in the heart of the vibrant Downtown District. This sleek and sophisticated residence boasts a spacious living room where you can relax or entertain guests in style. Step out onto the rooftop terrace and take in the bustling city views while enjoying a morning coffee or evening cocktail. The modern kitchen is equipped with high-end appliances and sleek finishes, perfect for culinary enthusiasts. With 2500 square feet of living space, there's ample room for luxurious living. Experience the best of urban living with convenient access to dining, shopping, and entertainment options just steps away.",
+      "price": "$750,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Downtown District",
+      "image": "https://i.ibb.co/jDNfDj5/imresizer-1712945202674.jpg",
+      "facilities": ["living room", "rooftop terrace", "kitchen"]
+  },
+  {
+      "id1": 44,
+      "estate_title": "Family-Friendly Townhouse",
+      "segment_name": "Townhouses Residential",
+      "description": "Discover the perfect family-friendly townhouse in the welcoming community of Family-Friendly Community. This residence offers a spacious living room where the whole family can gather for movie nights or game days. Step outside to the backyard and enjoy outdoor fun and games, or take a dip in the community pool on hot summer days. The well-appointed kitchen provides the ideal space for family meals and gatherings, equipped with modern appliances and plenty of counter space. With 2200 square feet of living space, there's room for everyone to live and play comfortably. Embrace the sense of community and camaraderie in this ideal family setting.",
+      "price": "$600,000",
+      "status": "sale",
+      "area": "2200 sq ft",
+      "location": "Family-Friendly Community",
+      "image": "https://i.ibb.co/hdkFKLY/imresizer-1712945195770.jpg",
+      "facilities": ["living room", "backyard", "kitchen", "community pool"]
+  },
+  {
+      "id1": 55,
+      "estate_title": "Cozy Townhouse",
+      "segment_name": "Townhouses Residential",
+      "description": "Experience tranquility and comfort in this cozy townhouse retreat located in the peaceful Tranquil Neighborhood. This residence offers a warm and inviting living room, complete with a fireplace where you can cozy up on chilly evenings. Step outside to the private backyard and enjoy serene moments surrounded by nature. The well-equipped kitchen provides the perfect space for cooking meals and creating memories with loved ones. With 1600 square feet of living space, there's plenty of room for comfortable living. Whether you're enjoying indoor relaxation or outdoor adventures, this townhouse offers the ideal blend of comfort and charm.",
+      "price": "$400,000",
+      "status": "sale",
+      "area": "1600 sq ft",
+      "location": "Tranquil Neighborhood",
+      "image": "https://i.ibb.co/k9j0RmB/imresizer-1712945185887.jpg",
+      "facilities": ["living room", "fireplace", "backyard", "kitchen"]
+  },
+  {
+      "id1": 66,
+      "estate_title": "Stylish Townhouse",
+      "segment_name": "Townhouses Residential",
+      "description": "Immerse yourself in luxury living with this stylish townhouse in the heart of the bustling City Center. This residence features a spacious living room where you can entertain guests in style or unwind after a busy day. Step out onto the rooftop terrace or balcony and take in the dynamic city views while enjoying a morning coffee or evening drink. The modern kitchen is equipped with top-of-the-line appliances and sleek finishes, perfect for culinary enthusiasts. With 2800 square feet of living space, there's plenty of room for luxurious living and entertaining. Experience the ultimate urban lifestyle with convenient access to dining, shopping, and entertainment options just moments away.",
+      "price": "$850,000",
+      "status": "sale",
+      "area": "2800 sq ft",
+      "location": "City Center",
+      "image": "https://i.ibb.co/6R3mqyS/imresizer-1712945172703.jpg",
+      "facilities": ["living room", "rooftop terrace", "balcony", "kitchen"]
+  }
+]

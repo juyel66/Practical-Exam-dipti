@@ -1,0 +1,110 @@
+[
+  {
+      "id4": 1,
+      "estate_title": "Tranquil Senior Living Retreat",
+      "segment_name": "Senior Living Community",
+      "description": "Escape to a tranquil senior living retreat nestled in the heart of nature. This community offers spacious apartments designed for comfort and accessibility. Residents can enjoy a range of amenities including a fitness center, communal dining area, and on-site healthcare services. With lush green surroundings and a vibrant community atmosphere, this retreat provides the perfect setting for a fulfilling retirement lifestyle.",
+      "price": "$3,500/month",
+      "status": "rent",
+      "area": "900 sq ft",
+      "location": "Serenity Lane, Elderly Town",
+      "image": "https://i.ibb.co/sWb0CGZ/pexels-photo-7020985.webp",
+      "facilities": ["fitness center", "communal dining", "on-site healthcare"]
+  },
+  {
+      "id4": 2,
+      "estate_title": "Active Senior Community Living",
+      "segment_name": "Senior Living Community",
+      "description": "Experience the vibrancy of active senior community living in this modern and welcoming environment. Residents can choose from a variety of housing options, including apartments and cottages, each designed for convenience and comfort. Enjoy resort-style amenities such as a clubhouse, swimming pool, and walking trails, as well as a calendar of social activities and events. With 24/7 security and optional assistance services, residents can live independently while receiving the support they need.",
+      "price": "$4,200/month",
+      "status": "rent",
+      "area": "1100 sq ft",
+      "location": "Active Avenue, Elderly City",
+      "image": "https://i.ibb.co/9gR4YYW/pexels-photo-7020555.jpg",
+      "facilities": ["clubhouse", "swimming pool", "walking trails"]
+  },
+  {
+      "id4": 3,
+      "estate_title": "Scenic Senior Apartments",
+      "segment_name": "Senior Living Community",
+      "description": "Enjoy breathtaking views and modern comforts in these scenic senior apartments. Situated in a picturesque location, each apartment features spacious layouts, contemporary design, and private balconies or patios. Residents can participate in a variety of activities such as gardening, art classes, and group outings, fostering a sense of community and belonging. With on-site wellness amenities and scheduled transportation services, this community offers everything needed for a vibrant and fulfilling lifestyle.",
+      "price": "$3,800/month",
+      "status": "rent",
+      "area": "950 sq ft",
+      "location": "Scenic View Drive, Elderly Town",
+      "image": "https://i.ibb.co/0jtnb5Y/pexels-photo-6922183.webp",
+      "facilities": ["gardening area", "art classes", "scheduled transportation"]
+  },
+  {
+      "id4": 4,
+      "estate_title": "Cozy Retirement Cottages",
+      "segment_name": "Senior Living Community",
+      "description": "Find comfort and companionship in these cozy retirement cottages designed for independent senior living. Nestled in a quiet community setting, each cottage offers privacy and tranquility with modern amenities and charming interiors. Residents can enjoy socializing in the community clubhouse, staying active in the fitness center, and exploring nearby walking paths and nature trails. With maintenance-free living and optional support services, residents can embrace retirement with peace of mind and a sense of belonging.",
+      "price": "$3,000/month",
+      "status": "rent",
+      "area": "800 sq ft",
+      "location": "Cottage Grove Lane, Elderly Village",
+      "image": "https://i.ibb.co/FxqCD9g/pexels-photo-6888689.webp",
+      "facilities": ["clubhouse", "fitness center", "nature trails"]
+  },
+  {
+      "id4": 5,
+      "estate_title": "Independent Living Apartments",
+      "segment_name": "Senior Living Community",
+      "description": "Discover independent living at its finest in these spacious and well-appointed apartments. Perfect for active seniors, each apartment offers modern amenities, stylish finishes, and ample natural light. Residents can enjoy a maintenance-free lifestyle with access to on-site dining, recreational activities, and transportation services. With a vibrant community atmosphere and a range of social events and outings, this community provides the ideal setting for an enriching and fulfilling retirement.",
+      "price": "$4,500/month",
+      "status": "rent",
+      "area": "1000 sq ft",
+      "location": "Independence Way, Elderly City",
+      "image": "https://i.ibb.co/pZKqbqD/pexels-photo-6874050.webp",
+      "facilities": ["on-site dining", "recreational activities", "transportation services"]
+  },
+  {
+      "id4": 6,
+      "estate_title": "Resort-style Senior Living",
+      "segment_name": "Senior Living Community",
+      "description": "Experience resort-style living in this vibrant senior community designed for active adults. Residents can choose from a variety of housing options, including spacious apartments and villas, each with modern amenities and scenic views. Enjoy an array of recreational facilities, including a swimming pool, fitness center, and walking trails, as well as on-site dining and social activities. With 24/7 concierge services and optional care assistance, residents can enjoy retirement to the fullest in a supportive and engaging environment.",
+      "price": "$5,000/month",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "Resort Boulevard, Elderly Resort Town",
+      "image": "https://i.ibb.co/LSF0h0t/pexels-photo-6787960.webp",
+      "facilities": ["swimming pool", "fitness center", "concierge services"]
+  },
+  {
+      "id4": 7,
+      "estate_title": "Senior Living Villas with Lake Views",
+      "segment_name": "Senior Living Community",
+      "description": "Indulge in lakeside living in these luxurious senior living villas offering breathtaking views and upscale amenities. Each villa features spacious layouts, high-end finishes, and private outdoor spaces overlooking the lake. Residents can relax by the water, enjoy fishing or boating, or socialize in the community clubhouse and lounge areas. With a full calendar of events and activities, as well as optional concierge and healthcare services, residents can embrace retirement living in style and comfort.",
+      "price": "$6,500/month",
+      "status": "rent",
+      "area": "1500 sq ft",
+      "location": "Lakeview Terrace, Elderly Lake Town",
+      "image": "https://i.ibb.co/m86Ykdt/pexels-photo-5231330.jpg",
+      "facilities": ["lake access", "community clubhouse", "concierge services"]
+  },
+  {
+      "id4": 8,
+      "estate_title": "Senior Living Retreat with Mountain Views",
+      "segment_name": "Senior Living Community",
+      "description": "Discover the beauty of mountain living in this serene senior living retreat surrounded by picturesque landscapes and stunning views. Residents can choose from a variety of accommodation options, including apartments and cottages, each designed for comfort and convenience. Enjoy access to a range of amenities, including a wellness center, walking trails, and outdoor recreation areas, as well as organized social events and outings. With personalized care plans and supportive staff on hand, residents can enjoy retirement living to the fullest in a peaceful and scenic setting.",
+      "price": "$4,800/month",
+      "status": "rent",
+      "area": "1100 sq ft",
+      "location": "Mountain View Drive, Elderly Mountain Town",
+      "image": "https://i.ibb.co/LCJTMZx/free-photo-of-caregiver-talking-to-a-senior-woman-in-a-corridor.jpg",
+      "facilities": ["wellness center", "walking trails", "organized social events"]
+  },
+  {
+      "id4": 9,
+      "estate_title": "Retirement Community Apartments",
+      "segment_name": "Senior Living Community",
+      "description": "Join a vibrant retirement community in these spacious and comfortable apartments designed for active senior living. Residents can enjoy a range of amenities and services, including a clubhouse, fitness center, and scheduled transportation. With a calendar of social activities and events, as well as optional support services, residents can maintain independence while enjoying the benefits of community living. Embrace retirement living to the fullest in this welcoming and inclusive community.",
+      "price": "$3,200/month",
+      "status": "rent",
+      "area": "850 sq ft",
+      "location": "Retirement Lane, Elderly Community",
+      "image": "https://i.ibb.co/p3tpkFG/pexels-photo-7020614.webp",
+      "facilities": ["clubhouse", "fitness center", "scheduled transportation"]
+  }
+]
